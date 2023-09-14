@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "946400716182",
+    "project_id": "kbprovider-f19d1",
+    "storage_bucket": "kbprovider-f19d1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:946400716182:android:bf11da4898800d488869b7",
+        "android_client_info": {
+          "package_name": "com.koibanda.provider"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "946400716182-s9irbm7ihv9ch2l6sqhdv29naesfrv6b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHeFDOSDyfiKKWFj90tOEcQQMP9lmmwwo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "946400716182-s9irbm7ihv9ch2l6sqhdv29naesfrv6b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
